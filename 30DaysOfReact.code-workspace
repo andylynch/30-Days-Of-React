@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../30DaysOfJS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "30-Days-Of-React"
+	}
+}
