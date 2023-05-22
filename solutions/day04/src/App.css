@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.flex {
+  display: flex;
+}
+
+.flex div {
+  flex: 1;
+  margin: 5px;
+}
+
+img {
+  max-height: 10em;
+  max-width: 40em%;
+}
